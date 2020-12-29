@@ -4,20 +4,20 @@
 
 ####  👨‍💻  Coding  |  :running:  Running  |  :office:  Working Hard  |  :hearts:  Be Nice
  
-[![wangyuheng's github stats](https://github-readme-stats.vercel.app/api?username=wangyuheng&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Geligamesh's github stats](https://github-readme-stats.vercel.app/api?username=Geligamesh&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on :hospital: Medical Technology Company using [`Java`](https://github.com/topics/java)
-- 🌱 I’m currently learning [`Kotlin`](https://github.com/topics/kotlin)
+- 🌱 I’m currently learning [`Flutter`](https://github.com/topics/kotlin)
 - 👯 I’m looking to collaborate on [Dgraph](https://github.com/topics/dgraph) and [GraphQL](https://github.com/topics/graphql) Projects
 - 💬 Ask me about anything as long as I can
-- 📫 How to reach me: wangyuheng@outlook.com
-- 😄 2020 Nothing just happens, it's all part of a plan.
+- 📫 How to reach me: geligamesh@foxmail.com
+- 😄 2021 Nothing just happens, it's all part of a plan.
 
 
 ####  :rainbow:  Focusing
 
-[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=YituHealthcare&repo=Arc)](https://github.com/YituHealthcare/Arc)
-[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=wangyuheng&repo=ddl2plantuml)](https://github.com/wangyuheng/ddl2plantuml)
+[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=Snailclimb&repo=Arc)](https://github.com/Snailclimb/guide-rpc-framework)
+[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=Snailclimb&repo=ddl2plantuml)](https://github.com/Snailclimb/JavaGuide)
 
 ####  :hammer:  Language
 
