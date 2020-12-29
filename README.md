@@ -16,8 +16,8 @@
 
 ####  :rainbow:  Focusing
 
-[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=Snailclimb&repo=Arc)](https://github.com/Snailclimb/guide-rpc-framework)
-[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=Snailclimb&repo=ddl2plantuml)](https://github.com/Snailclimb/JavaGuide)
+[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=Snailclimb&repo=guide-rpc-framework)](https://github.com/Snailclimb/guide-rpc-framework)
+[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=Snailclimb&repo=JavaGuide)](https://github.com/Snailclimb/JavaGuide)
 
 ####  :hammer:  Language
 
